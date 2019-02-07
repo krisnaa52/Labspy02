@@ -10,11 +10,11 @@
 * Jika tidak, bil3 maka cetak terbesar
 
 # hasil program dan eksekusi <h2>
-* Program setelah dibuat dari algoritma di atas
+* **Program setelah dibuat dari algoritma di atas**
 
 ![GitHub Logo](7.png)
 
-* Inisialisasi dan input
+* **Inisialisasi dan input**
 
 ![GitHub Logo](2.png)
 
@@ -22,7 +22,7 @@
 
 ![GitHub Logo](3.png)
 
-* Hasil
+* **Hasil dalam 3 konsidi bilangan**
 
 ![GitHub Logo](hasil.png)
 
