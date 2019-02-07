@@ -11,18 +11,14 @@
 
 # hasil program dan eksekusi <h2>
 * Program setelah dibuat dari algoritma di atas
-
-#![GitHub Logo](7.png)
+![GitHub Logo](7.png)
 
 * Inisialisasi dan input
-
-#![GitHub Logo](2.png)
+![GitHub Logo](2.png)
 
 * Percabangan 
-
-#![GitHub Logo](3.png)
+![GitHub Logo](3.png)
 
 * Hasil
-
-#![GitHub Logo](hasil.png)
+![GitHub Logo](hasil.png)
 
