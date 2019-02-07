@@ -9,6 +9,9 @@
 * Jika tidak, bil2 > bil1 dan bil2 > bil3 maka cetak bil2 terbesar
 * Jika tidak, bil3 maka cetak terbesar
 
+# Flowchart menentukan bilangan terbesar dari 3 bilangan <h1>
+
+![GitHub Logo](flowchart.jpg)
 # hasil program dan eksekusi <h2>
 * **Program setelah dibuat dari algoritma di atas**
 
